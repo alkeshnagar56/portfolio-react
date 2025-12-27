@@ -35,6 +35,14 @@ const INFO = {
 
 	projects: [
 		{
+  			title: "Aurika Labs",
+  			description:
+    			"A real-time chat and project management system built with React.js, Node.js, Express.js, Socket.IO, and MongoDB, enabling task assignment, team collaboration, and public/private real-time messaging.",
+  			logo: "https://img.icons8.com/?size=100&id=pVr5rxlH2s3A&format=png&color=000000",
+  			linkText: "View Project",
+  			link: "https://github.com/alkeshnagar56/aurika-labs",
+		},
+		{
   			title: "URL Shortener",
   			description:
     			"A URL shortening application built with Node.js, Express.js, and MongoDB. Users can submit long URLs and receive a shortened version for easy sharing.",
